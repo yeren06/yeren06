@@ -9,7 +9,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🤝 I have been creating websites for 3 years.<br>🌱 I have a lot of work on e-commerce, personal sites and blogs, portfolios, promotional sites and corporate sites.
+
 
 
 ## 🌐 Socials:
@@ -22,7 +23,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yeren06&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeren06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
